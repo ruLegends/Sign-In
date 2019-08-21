@@ -1,6 +1,6 @@
 # Sign-In
 You have 3 files:
-1) Code
+1) Code.py\File.exe
 2) File with username and password (loginpassfile)
 3) File with paths (pathfile)
 
