@@ -2,8 +2,8 @@ from tkinter import *
 import os
 
 
-loginpassfile = r"C:\Users\Prog_21\Desktop\D\LP.txt"  # txt file with login and password
-inputfile = r"C:\Users\Prog_21\Desktop\D\InfoFile.txt"  # file with paths to your programs
+loginpassfile = r"loginpassfile.txt"  # txt file with login and password
+inputfile = r"pathfile.txt"  # file with paths to your programs
 
 
 def on_closing():  # function for frame update
