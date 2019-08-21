@@ -2,7 +2,7 @@
 You have 3 files:
 1) Code
 2) File with username and password (loginpassfile)
-3) File with paths (inputfile)
+3) File with paths (pathfile)
 
 Before starting the program set the correct paths to the files in lines 5 and 6. 
 After starting the program you see two input windows and a button. 
