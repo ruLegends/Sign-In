@@ -4,8 +4,7 @@ You have 3 files:
 2) File with username and password (loginpassfile)
 3) File with paths (pathfile)
 
-Before starting the program set the correct paths to the files in lines 5 and 6. 
-After starting the program you see two input windows and a button. 
+After starting the program you see two input windows and one button. 
 First window for login. Second for passwrod. Button for sign in (Enter also works). 
 This program will not give you the opportunity to close it until you enter the correct login and password. 
 Standart login and pass is ru 123. 
